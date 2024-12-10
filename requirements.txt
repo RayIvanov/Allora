@@ -1,0 +1,11 @@
+schedule
+ccxt
+pandas
+numpy
+scikit-learn
+tensorflow
+flask[async]
+traceback
+torch
+requests
+
